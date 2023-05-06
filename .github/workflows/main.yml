@@ -6,12 +6,10 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
 
 jobs:
-  generate:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
 
     steps:
