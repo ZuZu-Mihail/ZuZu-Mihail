@@ -42,6 +42,7 @@ A student with passion for Front-End, Back-end, Robotics, AI enthusiasts and cyb
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZuZu-Mihail/ZuZu-Mihail/output/snake.svg" alt="Snake animation" />
+
 
 ###
