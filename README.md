@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuzu-mihail&label=Profile%20views&color=0e75b6&style=flat" alt="zuzu-mihail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuzu-mihail" alt="zuzu-mihail" /></a> </p>
-
 - 📫 How to reach me **mihailhanga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -38,4 +36,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuzu-mihail&show_icons=true&locale=en" alt="zuzu-mihail" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuzu-mihail&" alt="zuzu-mihail" /></p>
