@@ -37,3 +37,11 @@ A student with passion for Front-End, Back-end, Robotics, AI enthusiasts and cyb
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuZu-Mihail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
