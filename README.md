@@ -45,15 +45,15 @@ A student with passion for Front-End, Back-end, Robotics, AI enthusiasts and cyb
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="github-snake-dark.svg"
+    srcset="github-contribution-grid-snake-dark.svg?palette=github-dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="github-snake-dark.svg"
+    srcset="github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="github-snake.svg"
+    src="github-contribution-grid-snake.svg"
   />
 </picture>
 
